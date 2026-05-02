@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "auth_api_01",
+    "expected_behaviors": [
+      "Token validation",
+      "Refresh token expiry",
+      "Invalid credentials handling"
+    ]
+  },
+  {
+    "id": "payment_api_01",
+    "expected_behaviors": [
+      "Idempotency validation",
+      "Retry failure handling",
+      "Duplicate charge prevention"
+    ]
+  }
+]
