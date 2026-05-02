@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": "auth_api_01",
+    "prompt": "Generate test cases for OAuth2 authentication API with refresh tokens",
+    "category": "API Testing"
+  },
+  {
+    "id": "payment_api_01",
+    "prompt": "Test payment API with retry logic and idempotency handling",
+    "category": "Functional Testing"
+  },
+  {
+    "id": "ui_flow_01",
+    "prompt": "Generate exploratory test scenarios for checkout UI flow",
+    "category": "UI Testing"
+  }
+]
